@@ -39,4 +39,5 @@ Unlike traditional obstacle detection systems, NavAssist interprets the environm
 A demonstration video showcasing obstacle detection and real-time navigation guidance will be added here.
 
 
+
 NavAssist is currently an early-stage research prototype developed for pilot testing and user validation. It is not intended to replace certified mobility aids or professional mobility training.
