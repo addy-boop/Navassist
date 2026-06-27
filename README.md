@@ -33,28 +33,6 @@ Unlike traditional obstacle detection systems, NavAssist interprets the environm
 
 ⛔ Stop. Obstacle directly ahead.
 
-⚙️ Technology Stack
-Component	Technology
-Programming Language	Python
-Computer Vision	OpenCV
-Object Detection	YOLOv8 (Ultralytics)
-AI	Deep Learning
-Speech	pyttsx3
-Video Processing	OpenCV
-📈 Current Progress
-✅ Functional computer vision prototype
-✅ Real-time navigation guidance
-✅ Context-aware audio feedback
-✅ Pilot testing with visually impaired participants
-🚧 Mobile application integration
-🚧 Smart glasses deployment
-🔬 Future Development
-GPS-assisted navigation
-Indoor localisation
-Custom object detection model for accessibility
-Haptic feedback
-Dedicated smart glasses hardware
-Cloud-based route planning
 
 📹 Demonstration
 
