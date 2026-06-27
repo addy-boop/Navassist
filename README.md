@@ -32,23 +32,7 @@ Unlike traditional obstacle detection systems, NavAssist interprets the environm
 ⚠ Person ahead. Move right.
 
 ⛔ Stop. Obstacle directly ahead.
-🏗️ System Architecture
-Camera Input
-      │
-      ▼
-YOLOv8 Object Detection
-      │
-      ▼
-Spatial Zone Classification
-      │
-      ▼
-Risk Assessment Engine
-      │
-      ▼
-Navigation Decision Logic
-      │
-      ▼
-Voice Guidance
+
 ⚙️ Technology Stack
 Component	Technology
 Programming Language	Python
@@ -71,27 +55,10 @@ Custom object detection model for accessibility
 Haptic feedback
 Dedicated smart glasses hardware
 Cloud-based route planning
-📂 Repository Structure
-NavAssist
-│
-├── main.py
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── assets/
-│     ├── logo.png
-│     ├── architecture.png
-│     ├── demo.gif
-│     └── screenshot.png
-│
-├── demo/
-│     └── prototype.mp4
+
 📹 Demonstration
 
 A demonstration video showcasing obstacle detection and real-time navigation guidance will be added here.
 
-📜 Disclaimer
 
 NavAssist is currently an early-stage research prototype developed for pilot testing and user validation. It is not intended to replace certified mobility aids or professional mobility training.
