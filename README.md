@@ -1,4 +1,4 @@
-🕶️ NavAssist
+NavAssist
 
 <p align="center"> <b>AI-powered assistive navigation for visually impaired individuals.</b><br> Helping users navigate safely through real-time computer vision and contextual audio guidance. </p>
 
